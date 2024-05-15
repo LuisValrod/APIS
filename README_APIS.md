@@ -21,27 +21,12 @@ HTTP stands for Hypertext Transfer Protocol. It is the foundation of data commun
 ## What are the 5 HTTP verbs
 The 5 HTTP verbs, also known as HTTP methods, are:
 
-GET
-POST
-PUT
-DELETE
-PATCH
+- GET
+- POST
+- PUT
+- DELETE
+- PATCH
 
 
 
-
-
-
-Cover:
-
-
-Find a diagram that showcases the API data transfer process. Add it to your README
-
-
- 
-
-Find diagrams that showcase:
- 
-- HTTP Request Structure
-- HTTP Response Structure
  
